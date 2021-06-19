@@ -58,5 +58,7 @@ console.log("======")
 console.log("12-misol")
 var a=3
 var b=4
-var c=((a**2)+(b**2))**1/2
+var c=((a**2)+(b**2))**(1/2)
+var P=a+b+c
 console.log(c)
+console.log(P)
